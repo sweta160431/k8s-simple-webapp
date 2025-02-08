@@ -156,7 +156,7 @@ kubectl port-forward service/webapp -n webapp 5000:5000 --address=0.0.0.0 &
 
 Open your browser and visit:
 ```bash
-http://localhost:8080
+http://localhost:5000
 ```
 ![Screenshot (36)](https://github.com/user-attachments/assets/3612df48-aa1c-498a-9ccf-295c7ba8d7a9)
 
